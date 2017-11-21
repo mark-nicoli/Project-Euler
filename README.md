@@ -1,5 +1,5 @@
 # Project-Euler
-project euler questions
+project euler solutions
 
 
-The following projects are taken from project euler
+This repository contains my answers to project Euler questions.
