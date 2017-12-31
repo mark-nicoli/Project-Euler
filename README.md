@@ -2,4 +2,4 @@
 project euler solutions
 
 
-This repository contains my answers to project Euler questions.
+This repository contains my answers to some project Euler questions.
